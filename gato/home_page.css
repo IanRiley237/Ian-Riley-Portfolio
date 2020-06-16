@@ -1,0 +1,434 @@
+/* Stuff that shows only on the homepage */
+
+.subbedthreads
+{
+    display: flex;
+}
+
+.subbedthreadname
+{
+    background-color: rgba(71, 59, 75, 1.0);
+
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgba(233, 233, 233, 0.8);
+
+    padding-left: 4px;
+    padding-right: 4px;
+
+    width: 60%;
+}
+
+.subbedthreadlastupdate
+{
+    background-color: rgba(143, 126, 163, 1.0);
+
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgba(233, 233, 233, 0.8);
+
+    color: rgba(233, 233, 233, 1.0);
+    text-align: center;
+
+    padding-left: 4px;
+    padding-right: 4px;
+
+    width: 30%;
+}
+
+.unsubbutton
+{
+    background-color: rgba(107, 97, 115, 1.0);
+    
+    border-style: solid;
+    border-width: 3px;
+    border-color: rgba(233, 233, 233, 0.8);
+    border-radius: 5px;
+
+    color: rgba(235, 224, 141, 1.0);
+    text-align: center;
+    font-size: 12px;
+
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 4px;
+    padding-right: 4px;
+
+    margin-left: 5px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    
+    overflow: hidden;
+
+    cursor: pointer;
+}
+.unsubbutton:hover
+{
+    border-color: rgba(235, 224, 141, 1.0);
+}
+
+.banssection
+{
+    color: rgba(233, 233, 233, 1.0);
+}
+
+.bandate
+{
+    color: rgba(253, 144, 120, 1.0);
+}
+
+.banner
+{
+    color: rgba(0, 0, 0, 1.0);
+}
+
+/* Formatting for the radio buttons */
+
+.radiotoolbar
+{
+    padding-bottom: 4px;
+
+    display: flex;
+    flex-direction: row;
+}
+
+.radiotoolbar label.descriptor
+{
+    vertical-align: middle;
+    color: rgba(233, 233, 233, 1.0);
+}
+
+.radiotoolbar input[type="radio"] 
+{
+    opacity: 0;
+
+    position: fixed;
+    
+    width: 0;
+}
+.radiotoolbar label.button
+{
+    background-color: rgba(107, 97, 115, 1.0);
+
+    border-style: solid;
+    border-width: 3px;
+    border-color: rgba(233, 233, 233, 0.8);
+    border-radius: 5px;
+
+    color: rgba(0, 205, 255, 1.0);
+    text-align: center;
+    font-size: 12px;
+    vertical-align: middle;
+
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 4px;
+    padding-right: 4px;
+
+    margin-left: 5px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+    display: inline-block;
+    overflow: hidden;
+
+    cursor: pointer;
+}
+.radiotoolbar input[type="radio"]:checked + label.button
+{
+    background-color: rgba(0, 205, 255, 1.0);
+
+    border-style: solid;
+    border-width: 3px;
+    border-color: rgba(233, 233, 233, 0.8);
+    border-radius: 5px;
+
+    color: rgba(107, 97, 115, 1.0);
+    vertical-align: middle;
+}
+
+/* Stuff for formatting posts on the post history section */
+
+.postBar
+{
+    background-color: rgba(71, 59, 75, 1.0);
+
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgba(233, 233, 233, 0.8);
+
+    color: rgba(233, 233, 233, 1.0);
+
+    padding-left: 4px;
+    padding-right: 4px;
+}
+
+.postText
+{
+    background-color: rgba(143, 126, 163, 1.0);
+
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgba(233, 233, 233, 0.8);
+
+    color: rgba(233, 233, 233, 1.0);
+    text-align: left;
+
+    padding: 4px;
+    padding-bottom: 15px;
+}
+
+.postText img
+{
+    max-width: 100%;
+}
+
+.posttimestamp
+{
+    color: rgba(71, 59, 75, 1.0);
+    text-align: right;
+    font-size: 10px;
+}
+
+.postfunctions
+{
+    background-color: rgba(71, 59, 75, 1.0);
+
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgba(233, 233, 233, 0.8);
+
+    color: rgba(233, 233, 233, 1.0);
+
+    padding-left: 4px;
+    padding-right: 4px;
+
+    overflow: auto;
+}
+
+.postingUtilities
+{
+    float: right;
+}
+
+.posteditbutton
+{
+    background-color: rgba(107, 97, 115, 1.0);
+    
+    border-style: solid;
+    border-width: 3px;
+    border-color: rgba(233, 233, 233, 0.8);
+    border-radius: 5px;
+
+    color: rgba(235, 224, 141, 1.0);
+    text-align: center;
+
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 4px;
+    padding-right: 4px;
+
+    margin: 5px;
+    
+    overflow: hidden;
+
+    float: left;
+
+    cursor: pointer;
+}
+.posteditbutton:hover
+{
+    border-color: rgba(235, 224, 141, 1.0);
+}
+
+.postdeletebutton
+{
+    background-color: rgba(107, 97, 115, 1.0);
+    
+    border-style: solid;
+    border-width: 3px;
+    border-color: rgba(233, 233, 233, 0.8);
+    border-radius: 5px;
+
+    color: rgba(253, 144, 120, 1.0);
+    text-align: center;
+
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 4px;
+    padding-right: 4px;
+
+    margin: 5px;
+    
+    overflow: hidden;
+
+    float: left;
+
+    cursor: pointer;
+}
+.postdeletebutton:hover
+{
+    border-color: rgba(253, 144, 120, 1.0);
+}
+
+.postspace
+{
+    margin-bottom: 5px;
+}
+
+/* Formats the page utilities */
+.pageheader
+{
+    color: rgba(255, 255, 255, 1.0);
+    text-align: center;
+
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.pageutilities
+{
+    text-align: center;
+
+    margin-left: auto;
+    margin-right: auto;
+    
+    display: flex;
+    flex-direction: row;
+}
+
+.pageBack
+{
+    margin-left: 4px;
+    margin-right: 4px;
+    
+    display: inline;
+}
+.pageJump
+{
+    flex-direction: row;
+
+    margin-left: 2px;
+    margin-right: 4px;
+
+    display: inline;
+}
+.pageBack
+{
+    margin-left: 4px;
+    margin-right: 4px;
+
+    display: inline;
+}
+
+.pageinput
+{
+    vertical-align: middle;
+    width: 3;
+
+    margin-top: 7px;
+    margin-bottom: 5px;
+    margin-left: 0px;
+    margin-right: 1px;
+
+    float: left;
+}
+
+.pagebutton
+{
+    background-color: rgba(107, 97, 115, 1.0);
+    
+    border-style: solid;
+    border-width: 3px;
+    border-color: rgba(233, 233, 233, 0.8);
+    border-radius: 5px;
+
+    color: rgba(233, 233, 233, 1.0);
+    text-align: center;
+    font-size: 14px;
+
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 4px;
+    padding-right: 4px;
+
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 1px;
+    margin-right: 1px;
+    
+    overflow: hidden;
+
+    float: left;
+
+    cursor: pointer;
+}
+.pagebutton:hover
+{
+    border-color: rgba(233, 233, 233, 1.0);
+
+    color: rgba(255, 255, 255, 1.0);
+}
+.postHistory
+{
+    display: flex;
+    flex-direction: column;
+}
+
+/* Formats the page in a responsive style so it looks good on mobile */
+
+@media screen and (max-width: 735px)
+{
+    .foreground
+    {
+        flex-direction: column;
+    }
+
+    .subscribedsection
+    {
+        flex: 100%;
+    }
+
+    .subbedthreads
+    {
+        flex-direction: column;
+    }
+
+    .subbedthreadname
+    {
+        text-align: center;
+
+        width: 100%;
+    }
+
+    .subbedthreadlastupdate
+    {
+        text-align: center;
+
+        width: 100%;
+    }
+
+    .unsubbutton
+    {
+        margin-left: 0px;
+        margin-bottom: 10px;
+
+        align-self: center;
+
+        width: 50%;
+    }
+
+    .postingUtilities
+    {
+        width: 100%;
+        align-content: center;
+        display: flex;
+    }
+    .posteditbutton
+    {
+        width: 50%;
+    }
+    .postdeletebutton
+    {
+        width: 50%;
+    }
+}

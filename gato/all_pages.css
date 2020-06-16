@@ -1,0 +1,364 @@
+/* Stuff that goes in the header that shows on all the pages */
+
+*
+{
+    box-sizing: border-box;
+}  
+
+body 
+{
+    background-image: url("assets/background.png");
+    background-repeat: repeat;
+
+    font-family: "Comic Sans MS";
+    font-size: 16px;
+}
+
+a /* Link modifications had to be done up here so the buttons would have a pointing cursor when you haver over them */
+{
+    color: rgba(0, 205, 255, 1.0);
+    text-decoration: none;
+    
+    cursor: pointer;
+}
+a:hover
+{
+    color: rgba(0, 149, 255, 1.0);
+}
+
+.backwall
+{
+    background-color: rgba(33, 33, 33, 0.8);
+    
+    border-style: solid;
+    border-width: 4px;
+    border-color: rgba(233, 233, 233, 0.8);
+    border-radius: 25px;
+
+    padding: 5px;
+
+    margin-left: 5px;
+    margin-right: 5px;
+    
+    overflow: hidden;
+}
+
+.header
+{
+    display: flex;
+    text-align: center;
+}
+
+
+img.logo
+{
+    height: 200px;
+    width: 240px;
+    padding-left: 5px;
+}
+
+.buttonsection
+{
+    float: right;
+}
+
+.menubutton
+{
+    background-color: rgba(107, 97, 115, 1.0);
+    
+    border-style: solid;
+    border-width: 3px;
+    border-color: rgba(233, 233, 233, 0.8);
+    border-radius: 5px;
+
+    font-size: 30px;
+    color: rgba(54, 222, 180, 1.0);
+    font-style: normal;
+
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+    margin: 5px;
+    
+    overflow: hidden;
+
+    float: left;
+}
+
+.menubutton:hover
+{
+    background-color: rgba(54, 222, 180, 1.0);
+
+    color: rgba(107, 97, 115, 1.0);
+}
+
+hr
+{
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgba(54, 222, 180, 0.5);
+    border-radius: 5px;
+
+    color: rgba(54, 222, 180, 0.5);
+
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+/* Stuff that goes in the sidebar */
+
+hr.sectiondivider
+{
+    border-width: 1px;
+    border-color: rgba(233, 233, 233, 0.5);
+    
+    color: rgba(233, 233, 233, 0.5);
+
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.accountinfo
+{
+    display: flex;
+    flex-direction: column;
+    flex: 20%;
+}
+
+.accountinfo .info
+{
+    color: rgba(54, 222, 180, 1.0);
+}
+
+.accountinfo .label
+{
+    color: rgba(233, 233, 233, 1.0);
+}
+
+.sidebutton
+{
+    background-color: rgba(107, 97, 115, 1.0);
+    
+    border-style: solid;
+    border-width: 3px;
+    border-color: rgba(233, 233, 233, 0.8);
+    border-radius: 5px;
+
+    font-size: 20px;
+    color: rgba(54, 222, 180, 1.0);
+    text-align: center;
+
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+    margin: 5px;
+    
+    overflow: hidden;
+
+    float: left;
+
+    cursor: pointer;
+}
+
+.sidebutton:hover
+{
+    background-color: rgba(54, 222, 180, 1.0);
+
+    color: rgba(107, 97, 115, 1.0);
+    
+    font-style: none;
+    text-decoration: none;
+}
+
+.registerbutton
+{
+    background-color: rgba(107, 97, 115, 1.0);
+    
+    border-style: solid;
+    border-width: 3px;
+    border-color: rgba(233, 233, 233, 0.8);
+    border-radius: 5px;
+
+    font-size: 20px;
+    color: rgba(253, 144, 120, 1.0);
+    text-align: center;
+
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+    margin: 5px;
+    
+    overflow: hidden;
+
+    float: left;
+
+    cursor: pointer;
+}
+
+.registerbutton:hover
+{
+    background-color: rgba(253, 144, 120, 1.0);
+    color: rgba(107, 97, 115, 1.0);
+    
+    font-style: none;
+    text-decoration: none;
+}
+
+/* Stuff that goes in the footer that shows on all the pages */
+
+.footer
+{
+    background-color: rgba(71, 59, 75, 1.0);
+
+    border-style: solid;
+    border-width: 3px;
+    border-color: rgba(233, 233, 233, 0.8);
+    border-radius: 5px 5px 18px 18px;
+
+    padding: 5px;
+
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    
+    overflow: hidden;
+
+    color: rgba(233, 233, 233, 0.8);
+    font-size: 10px;
+    text-align: center;
+}
+
+span.gato
+{
+    color: rgba(54, 222, 180, 1.0);
+}
+
+/* Misc. stuff that goes on all the pages */
+
+.foreground
+{
+    background-color: rgba(107, 97, 115, 1.0);
+    
+    border-style: solid;
+    border-width: 3px;
+    border-color: rgba(233, 233, 233, 0.8);
+    border-radius: 5px;
+
+    padding: 5px;
+
+    margin-left: 5px;
+    margin-right: 5px;
+    
+    overflow: hidden;
+
+    display: flex;
+}
+
+.sectionorganizer
+{
+    display: flex;
+    flex-direction: column;
+    flex: 80%;
+}
+
+.sectionname
+{
+    font-size: 30px;
+    color: rgba(54, 222, 180, 1.0);
+}
+
+/* Formats the page in a responsive style so it looks good on mobile */
+
+@media screen and (max-width: 735px)
+{
+    .header 
+    {   
+        flex-direction: column;
+    }
+
+    img.logo
+    {
+        height: 100px;
+        width: 120px;
+        
+        align-self: center;
+    }
+
+    .menubutton
+    {
+        font-size: 20px;
+
+        float: none;
+    }
+
+    .loggerbutton
+    {
+        font-size: 20px;
+
+        float: none;
+    }
+
+    .foreground
+    {
+        flex-direction: column;
+    }
+
+    .accountinfo
+    {
+        flex: 100%;
+        text-align: center;
+    }
+
+    .buttonholder
+    {
+        display: flex;
+        width: 100%
+    }
+
+    .registerbutton
+    {
+        width: 50%;
+    }
+    .sidebutton
+    {
+        width: 50%;
+    }
+}
+@media screen and (min-width: 735px) /* This was used to make sure things snap back to desktop in the screen size is changed in the browser */
+{
+    .header
+    {
+        position: relative;
+    }
+
+    .buttonsection
+    {
+        position: absolute;
+        bottom: 0px;
+        right: 0px;
+    }
+
+    .buttonholder
+    {
+        flex-direction: column;
+    }
+
+    .registerbutton
+    {
+        float: none;
+        margin-left: 0px;
+    }
+    .sidebutton
+    {
+        float: none;
+        margin-left: 0px;
+    }
+}
