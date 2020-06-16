@@ -1,0 +1,229 @@
+fileFormatVersion: 2
+guid: 4727e2dad3845db4b91bfba981504325
+timeCreated: 1519176407
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Cube
+    100002: Cube_001
+    100004: Cube_002
+    100006: Cube_003
+    100008: Cube_004
+    100010: Cube_005
+    100012: Cylinder
+    100014: Cylinder_001
+    100016: Cylinder_002
+    100018: Cylinder_003
+    100020: Cylinder_004
+    100022: Plane
+    100024: //RootNode
+    100026: Body
+    100028: Left_Fore-Gun
+    100030: Left_Fore-Gun_Support
+    100032: Left_Rear-Gun
+    100034: Left_Rear-Gun_Support
+    100036: Pod
+    100038: Primary_Gun
+    100040: Primary_Gun_Support
+    100042: Right_Fore-Gun
+    100044: Right_Fore-Gun_Support
+    100046: Right_Rear-Gun
+    100048: Right_Rear-Gun_Support
+    400000: Cube
+    400002: Cube_001
+    400004: Cube_002
+    400006: Cube_003
+    400008: Cube_004
+    400010: Cube_005
+    400012: Cylinder
+    400014: Cylinder_001
+    400016: Cylinder_002
+    400018: Cylinder_003
+    400020: Cylinder_004
+    400022: Plane
+    400024: //RootNode
+    400026: Body
+    400028: Left_Fore-Gun
+    400030: Left_Fore-Gun_Support
+    400032: Left_Rear-Gun
+    400034: Left_Rear-Gun_Support
+    400036: Pod
+    400038: Primary_Gun
+    400040: Primary_Gun_Support
+    400042: Right_Fore-Gun
+    400044: Right_Fore-Gun_Support
+    400046: Right_Rear-Gun
+    400048: Right_Rear-Gun_Support
+    2100000: Material
+    2100002: unnamed
+    2100004: Material_001
+    2300000: Cube
+    2300002: Cube_001
+    2300004: Cube_002
+    2300006: Cube_003
+    2300008: Cube_004
+    2300010: Cube_005
+    2300012: Cylinder
+    2300014: Cylinder_001
+    2300016: Cylinder_002
+    2300018: Cylinder_003
+    2300020: Cylinder_004
+    2300022: Plane
+    2300024: Body
+    2300026: Left_Fore-Gun
+    2300028: Left_Fore-Gun_Support
+    2300030: Left_Rear-Gun
+    2300032: Left_Rear-Gun_Support
+    2300034: Pod
+    2300036: Primary_Gun
+    2300038: Primary_Gun_Support
+    2300040: Right_Fore-Gun
+    2300042: Right_Fore-Gun_Support
+    2300044: Right_Rear-Gun
+    2300046: Right_Rear-Gun_Support
+    3300000: Cube
+    3300002: Cube_001
+    3300004: Cube_002
+    3300006: Cube_003
+    3300008: Cube_004
+    3300010: Cube_005
+    3300012: Cylinder
+    3300014: Cylinder_001
+    3300016: Cylinder_002
+    3300018: Cylinder_003
+    3300020: Cylinder_004
+    3300022: Plane
+    3300024: Body
+    3300026: Left_Fore-Gun
+    3300028: Left_Fore-Gun_Support
+    3300030: Left_Rear-Gun
+    3300032: Left_Rear-Gun_Support
+    3300034: Pod
+    3300036: Primary_Gun
+    3300038: Primary_Gun_Support
+    3300040: Right_Fore-Gun
+    3300042: Right_Fore-Gun_Support
+    3300044: Right_Rear-Gun
+    3300046: Right_Rear-Gun_Support
+    4300000: Cylinder_004
+    4300002: Cube_005
+    4300004: Cylinder_003
+    4300006: Cube_004
+    4300008: Cube_003
+    4300010: Cylinder_002
+    4300012: Cylinder_001
+    4300014: Cube_002
+    4300016: Cube_001
+    4300018: Cylinder
+    4300020: Cube
+    4300022: Plane
+    4300024: Left_Fore-Gun
+    4300026: Left_Fore-Gun_Support
+    4300028: Right_Rear-Gun
+    4300030: Right_Rear-Gun_Support
+    4300032: Left_Rear-Gun_Support
+    4300034: Left_Rear-Gun
+    4300036: Right_Fore-Gun
+    4300038: Right_Fore-Gun_Support
+    4300040: Primary_Gun_Support
+    4300042: Primary_Gun
+    4300044: Pod
+    4300046: Body
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: d8b839b1f51abfd48bf59d5419cbe8c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_001
+    second: {fileID: 2100000, guid: f2ad5a555acb7144f8cd862bf9723875, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: unnamed
+    second: {fileID: 2100000, guid: d8b839b1f51abfd48bf59d5419cbe8c3, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

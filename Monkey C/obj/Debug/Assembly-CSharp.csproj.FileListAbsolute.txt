@@ -1,0 +1,269 @@
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\Assembly-CSharp.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\nunit.framework.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\UnityEditor.Advertisements.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\UnityEditor.Analytics.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\UnityEditor.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\UnityEditor.Graphs.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\UnityEditor.HoloLens.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\UnityEditor.Networking.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\UnityEditor.Purchasing.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\UnityEditor.SpatialTracking.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\UnityEditor.TestRunner.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\UnityEditor.Timeline.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\UnityEditor.UI.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\UnityEditor.UIAutomation.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\UnityEditor.VR.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\UnityEngine.Advertisements.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\UnityEngine.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\UnityEngine.HoloLens.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\UnityEngine.Purchasing.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\UnityEngine.TestRunner.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\UnityEngine.Timeline.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\UnityEngine.UI.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\Unity.Cecil.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\Unity.DataContract.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\ExCSS.Unity.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\Unity.CecilTools.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\UnityEngine.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\UnityEditor.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\UnityEngine.UI.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\UnityEditor.UI.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\UnityEditor.Networking.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\UnityEditor.TestRunner.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\UnityEngine.TestRunner.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\nunit.framework.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\UnityEngine.Timeline.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\UnityEditor.Timeline.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\UnityEditor.UIAutomation.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\UnityEditor.HoloLens.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\UnityEngine.HoloLens.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\UnityEditor.SpatialTracking.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\UnityEditor.VR.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\obj\Debug\Assembly-CSharp.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 2 - Terrain\Monkey C\obj\Debug\Assembly-CSharp.pdb
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\Assembly-CSharp.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\nunit.framework.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\UnityEditor.Advertisements.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\UnityEditor.Analytics.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\UnityEditor.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\UnityEditor.Graphs.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\UnityEditor.HoloLens.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\UnityEditor.Networking.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\UnityEditor.Purchasing.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\UnityEditor.SpatialTracking.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\UnityEditor.TestRunner.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\UnityEditor.Timeline.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\UnityEditor.UI.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\UnityEditor.UIAutomation.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\UnityEditor.VR.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\UnityEngine.Advertisements.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\UnityEngine.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\UnityEngine.HoloLens.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\UnityEngine.Purchasing.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\UnityEngine.TestRunner.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\UnityEngine.Timeline.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\UnityEngine.UI.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\Unity.Cecil.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\Unity.DataContract.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\ExCSS.Unity.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\Unity.CecilTools.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\UnityEngine.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\UnityEditor.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\UnityEngine.UI.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\UnityEditor.UI.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\UnityEditor.Networking.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\UnityEditor.TestRunner.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\UnityEngine.TestRunner.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\nunit.framework.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\UnityEngine.Timeline.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\UnityEditor.Timeline.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\UnityEditor.UIAutomation.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\UnityEditor.HoloLens.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\UnityEngine.HoloLens.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\UnityEditor.SpatialTracking.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\UnityEditor.VR.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\obj\Debug\Assembly-CSharp.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 3 - Gameplay and Stuff\Monkey C\obj\Debug\Assembly-CSharp.pdb
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\Assembly-CSharp.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\nunit.framework.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\UnityEditor.Advertisements.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\UnityEditor.Analytics.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\UnityEditor.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\UnityEditor.Graphs.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\UnityEditor.HoloLens.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\UnityEditor.Networking.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\UnityEditor.Purchasing.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\UnityEditor.SpatialTracking.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\UnityEditor.TestRunner.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\UnityEditor.Timeline.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\UnityEditor.UI.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\UnityEditor.UIAutomation.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\UnityEditor.VR.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\UnityEngine.Advertisements.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\UnityEngine.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\UnityEngine.HoloLens.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\UnityEngine.Purchasing.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\UnityEngine.TestRunner.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\UnityEngine.Timeline.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\UnityEngine.UI.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\Unity.Cecil.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\Unity.DataContract.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\ExCSS.Unity.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\Unity.CecilTools.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\UnityEngine.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\UnityEditor.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\UnityEngine.UI.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\UnityEditor.UI.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\UnityEditor.Networking.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\UnityEditor.TestRunner.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\UnityEngine.TestRunner.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\nunit.framework.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\UnityEngine.Timeline.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\UnityEditor.Timeline.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\UnityEditor.UIAutomation.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\UnityEditor.HoloLens.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\UnityEngine.HoloLens.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\UnityEditor.SpatialTracking.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\UnityEditor.VR.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\obj\Debug\Assembly-CSharp.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 4 - Effects and UI\Monkey C\obj\Debug\Assembly-CSharp.pdb
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\Assembly-CSharp.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\nunit.framework.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\UnityEditor.Advertisements.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\UnityEditor.Analytics.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\UnityEditor.Android.Extensions.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\UnityEditor.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\UnityEditor.Graphs.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\UnityEditor.HoloLens.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\UnityEditor.Networking.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\UnityEditor.Purchasing.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\UnityEditor.SpatialTracking.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\UnityEditor.TestRunner.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\UnityEditor.Timeline.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\UnityEditor.UI.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\UnityEditor.UIAutomation.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\UnityEditor.VR.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\UnityEngine.Advertisements.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\UnityEngine.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\UnityEngine.HoloLens.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\UnityEngine.Purchasing.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\UnityEngine.TestRunner.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\UnityEngine.Timeline.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\UnityEngine.UI.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\Unity.Cecil.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\Unity.DataContract.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\ExCSS.Unity.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\Unity.CecilTools.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\UnityEngine.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\UnityEditor.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\UnityEngine.UI.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\UnityEditor.UI.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\UnityEditor.Networking.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\UnityEditor.TestRunner.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\UnityEngine.TestRunner.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\nunit.framework.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\UnityEngine.Timeline.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\UnityEditor.Timeline.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\UnityEditor.UIAutomation.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\UnityEditor.HoloLens.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\UnityEngine.HoloLens.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\UnityEditor.SpatialTracking.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\UnityEditor.VR.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\obj\Debug\Assembly-CSharp.dll
+E:\College\2017 - 2018\Spring\Game Development\Monkey C\Team Project\Phase 5 - Menus and Dialogue\Monkey C\obj\Debug\Assembly-CSharp.pdb

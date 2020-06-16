@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 81894680cfe39f74790f0778ae09be07
+timeCreated: 1523034215
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - boundary: {instanceID: 0}
+  - shot: {fileID: 100000, guid: f4ec271e525e14ca9927a07e6a2e153d, type: 2}
+  - screenClearEffect: {fileID: 1222037840977970, guid: 58ef9fc94a7db27478a97f5459c90af7,
+      type: 2}
+  - shotSpawn: {instanceID: 0}
+  - count: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

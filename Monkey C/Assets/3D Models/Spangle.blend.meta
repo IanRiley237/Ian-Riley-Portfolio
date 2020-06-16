@@ -1,0 +1,303 @@
+fileFormatVersion: 2
+guid: 1a3f03bee4d91e644b8d5040772138bb
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cube
+    100002: Cylinder
+    100004: Cylinder_001
+    100006: Cylinder_002
+    100008: Cylinder_003
+    100010: Cylinder_004
+    100012: Cylinder_005
+    100014: Plane
+    100016: Plane_001
+    100018: Plane_002
+    100020: Plane_003
+    100022: //RootNode
+    100024: Base
+    100026: Cockpit
+    100028: Engine
+    100030: LeftGun
+    100032: LeftStar
+    100034: LeftWingGun
+    100036: RightGun
+    100038: RightStar
+    100040: RightWingGun
+    100042: ShotSpawn
+    100044: TailFin
+    100046: Wings
+    100048: LeftEngine
+    100050: RightEngine
+    100052: ShotSpawn_001
+    100054: ShotSpawn_002
+    100056: ShotSpawn_000
+    100058: ShotSpawn_003
+    100060: ShotSpawn_004
+    100062: ShotSpawn_005
+    400000: Cube
+    400002: Cylinder
+    400004: Cylinder_001
+    400006: Cylinder_002
+    400008: Cylinder_003
+    400010: Cylinder_004
+    400012: Cylinder_005
+    400014: Plane
+    400016: Plane_001
+    400018: Plane_002
+    400020: Plane_003
+    400022: //RootNode
+    400024: Base
+    400026: Cockpit
+    400028: Engine
+    400030: LeftGun
+    400032: LeftStar
+    400034: LeftWingGun
+    400036: RightGun
+    400038: RightStar
+    400040: RightWingGun
+    400042: ShotSpawn
+    400044: TailFin
+    400046: Wings
+    400048: LeftEngine
+    400050: RightEngine
+    400052: ShotSpawn_001
+    400054: ShotSpawn_002
+    400056: ShotSpawn_000
+    400058: ShotSpawn_003
+    400060: ShotSpawn_004
+    400062: ShotSpawn_005
+    2100000: Material
+    2100002: Material_001
+    2100004: Material_003
+    2100006: Material_002
+    2100008: Material_004
+    2100010: Star_Material
+    2100012: Metal
+    2100014: Glass
+    2100016: Stripe
+    2100018: Engine
+    2300000: Cube
+    2300002: Cylinder
+    2300004: Cylinder_001
+    2300006: Cylinder_002
+    2300008: Cylinder_003
+    2300010: Cylinder_004
+    2300012: Cylinder_005
+    2300014: Plane
+    2300016: Plane_001
+    2300018: Plane_002
+    2300020: Plane_003
+    2300022: Base
+    2300024: Cockpit
+    2300026: Engine
+    2300028: LeftGun
+    2300030: LeftStar
+    2300032: LeftWingGun
+    2300034: RightGun
+    2300036: RightStar
+    2300038: RightWingGun
+    2300040: ShotSpawn
+    2300042: TailFin
+    2300044: Wings
+    2300046: LeftEngine
+    2300048: RightEngine
+    2300050: ShotSpawn_001
+    2300052: ShotSpawn_002
+    2300054: ShotSpawn_000
+    2300056: ShotSpawn_003
+    2300058: ShotSpawn_004
+    2300060: ShotSpawn_005
+    3300000: Cube
+    3300002: Cylinder
+    3300004: Cylinder_001
+    3300006: Cylinder_002
+    3300008: Cylinder_003
+    3300010: Cylinder_004
+    3300012: Cylinder_005
+    3300014: Plane
+    3300016: Plane_001
+    3300018: Plane_002
+    3300020: Plane_003
+    3300022: Base
+    3300024: Cockpit
+    3300026: Engine
+    3300028: LeftGun
+    3300030: LeftStar
+    3300032: LeftWingGun
+    3300034: RightGun
+    3300036: RightStar
+    3300038: RightWingGun
+    3300040: ShotSpawn
+    3300042: TailFin
+    3300044: Wings
+    3300046: LeftEngine
+    3300048: RightEngine
+    3300050: ShotSpawn_001
+    3300052: ShotSpawn_002
+    3300054: ShotSpawn_000
+    3300056: ShotSpawn_003
+    3300058: ShotSpawn_004
+    3300060: ShotSpawn_005
+    4300000: Plane_003
+    4300002: Plane_002
+    4300004: Cylinder_005
+    4300006: Cylinder_004
+    4300008: Cylinder_003
+    4300010: Cylinder_002
+    4300012: Plane_001
+    4300014: Cylinder_001
+    4300016: Plane
+    4300018: Cylinder
+    4300020: Cube
+    4300022: LeftGun
+    4300024: ShotSpawn
+    4300026: RightGun
+    4300028: RightWingGun
+    4300030: LeftWingGun
+    4300032: Wings
+    4300034: LeftStar
+    4300036: RightStar
+    4300038: Base
+    4300040: TailFin
+    4300042: Engine
+    4300044: Cockpit
+    4300046: ShotSpawn_001
+    4300048: ShotSpawn_002
+    4300050: LeftEngine
+    4300052: RightEngine
+    4300054: ShotSpawn_003
+    4300056: ShotSpawn_000
+    4300058: ShotSpawn_005
+    4300060: ShotSpawn_004
+    7400000: Default Take
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Engine
+    second: {fileID: 2100000, guid: 6372a1ab9ced04a4db9ff48f2112e294, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: f2ad5a555acb7144f8cd862bf9723875, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 0b2a73fbc7102be4a82b224d394f0dc2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_001
+    second: {fileID: 2100000, guid: 0b2a73fbc7102be4a82b224d394f0dc2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_002
+    second: {fileID: 2100000, guid: f2ad5a555acb7144f8cd862bf9723875, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_003
+    second: {fileID: 2100000, guid: d8b839b1f51abfd48bf59d5419cbe8c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal
+    second: {fileID: 2100000, guid: 2e67bc02d511c764f9def3822659dd08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Star_Material
+    second: {fileID: 2100000, guid: cd40d49c9e81bee499a9ddd31440af7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stripe
+    second: {fileID: 2100000, guid: 0b2a73fbc7102be4a82b224d394f0dc2, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
