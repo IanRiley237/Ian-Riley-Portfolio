@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="Black">#000000</color>
+    <color name="White">#FFFFFF</color>
+    <color name="Grey">#888888</color>
+    <color name="notime">#430c0c</color>
+    <color name="littletime">#cc2a42</color>
+    <color name="sometime">#ffcc60</color>
+    <color name="enoughtime">#2f9e38</color>
+    <color name="infinitetime">#4648c0</color>
+</resources>
