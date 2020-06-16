@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Word Scramble</title>
+    </head>
+    <body onload="Setup()">
+        
+        <audio id="win">
+            <source src="win.mp3" type="audio/mp3">
+        </audio>
+        <audio id="lose">
+            <source src="lose.wav" type="audio/wav">
+        </audio>
+        <header>
+            <h1>Welcome to Riley's Guessing Game!</h1>
+            <p>Guess what word has been scrambled!</p>
+        </header>
+
+        <script src="Assignment5.js"></script>
+        <link rel="stylesheet" type="text/css" href="Assignment5.css"/>
+
+        <div class ="main">
+            <button class="newgame" onclick="Setup()">New Game</button>
+
+            <div class="game">
+                <h1 id="word">
+                </h1>
+                <input type="text" id="input"/>
+                <p id="button holder"><button id="guessBtn" onclick="Guess()">GUESS!</button></p><p id=health class="health"></p>
+            </div>
+            
+            <div id="starimgdiv" class ='starimgdiv'>
+                <img src="star.png" id="starimg1" class="starimg s1"/>
+                <img src="star.png" id="starimg2" class="starimg s2"/>
+                <img src="star.png" id="starimg3" class="starimg s3"/>
+            </div>
+        </div>
+
+
+        <div class="scoreboard">
+            <h2>Score Board:</h2>
+            <table class="scoretable" id="scoretable" border="3px" align="center"></table>
+        </div>
+        
+    </body>
+</html>

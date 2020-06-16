@@ -1,0 +1,210 @@
+body
+{
+	background-color: #e8e8e8;
+}
+header
+{
+	float: top;
+	text-align: center;
+	padding: 0.1em;
+	background-color: rgb(226, 210, 138);
+	font-size: 3vw;
+}
+button
+{
+	text-shadow: 2px 2px 5px rgb(80, 80, 80);
+	background-color: gainsboro;
+}
+button:hover
+{
+	transform: scale(1.05);
+}
+button.newgame
+{
+	font-size: 5vw;
+	margin: 1px;
+}
+h1
+{
+	text-shadow: 2px 2px 5px rgb(80, 80, 80);
+	font-size: 3.5vw;
+}
+input
+{
+	font-size: 4vw;
+	text-align: center;
+	width: 80%;
+}
+div.main
+{
+	position: relative;
+	background-color: rgb(224, 220, 199);
+	box-shadow: 0px 2px 3px grey;
+	padding: 10px;
+	margin: 4%;
+	float: left;
+    text-align: center;
+}
+div.game
+{
+	font-family: sans-serif;
+	padding: 5px;
+
+    text-align: center;
+	width: 100%;
+}
+.starimg
+{
+	width: 8vmax;
+	position: absolute;
+	visibility: hidden;
+	opacity: 0;
+}
+.s1
+{
+	transform: translateX(-150%);
+	top: 25vh;
+}
+.s2
+{
+	transform: translateX(-50%);
+	top: 20vh;
+}
+.s3
+{
+	transform: translateX(+50%);
+	top: 25vh;
+}
+.starimgdiv
+{
+	display: block;
+	text-align: center;
+}
+div.scoreboard
+{
+	position: relative;
+	font-family: sans-serif;
+	background-color: white;
+	box-shadow: 0px 2px 3px grey;
+	padding: 10px;
+	margin-right: 4%;
+	margin-top: 4%;
+	float: right;
+	text-align: center;
+	width: 30%;
+}
+button
+{
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-size: 3vw;
+	padding: 0.3em;
+}
+p
+{
+	font-size: 3vw;
+}
+.in
+{
+	animation-duration: 1.5s;
+	animation-name: fadeIn;
+}
+.out
+{
+	animation-duration: 1.5s;
+	animation-name: fadeOut;
+}
+.inout
+{
+	animation-duration: 3s;
+	animation-name: fadeInFadeOut;
+}
+table
+{
+    border-collapse: collapse;
+	background-color: rgb(236, 235, 226)
+}
+tr
+{
+	text-align: center;
+}
+td
+{
+    white-space:nowrap;
+	font-size: 1vw;
+	height: 2em;
+}
+th
+{
+    white-space:nowrap;
+	font-size: 1vw;
+}
+th.round
+{
+	width: 15%;
+}
+th.word
+{
+	width: 65%;
+}
+th.score
+{
+	width: 10%;
+}
+th.stars
+{
+	width: 10%;
+}
+@media only screen and (max-width: 800px)
+{
+	th
+	{
+		font-size: 2vw;
+	}
+	td
+	{
+		font-size: 2vw;
+	}
+	div.main
+	{
+		float: none;
+		margin: auto;
+		width: 70%;
+		padding: 10px;
+	}
+	div.scoreboard
+	{
+	  float: none;
+	  margin: auto;
+	  width: 70%;
+	  padding: 10px;
+
+	  
+	}
+	body
+	{
+		text-align: center;
+	}
+}
+
+@keyframes fadeIn
+{
+	0% {opacity: 0;}
+	100% {opacity: 1;}
+} 
+
+@keyframes fadeOut
+{
+	0% {opacity: 1;}
+	100% {opacity: 0;}
+} 
+
+@keyframes fadeInFadeOut
+{
+	0% {visibility: visible;}
+	0% {opacity: 0;}
+	10% {opacity: 1;}
+	90% {opacity: 1;}
+	100% {opacity: 0;}
+	100% {visibility: hidden;}
+	
+} 
