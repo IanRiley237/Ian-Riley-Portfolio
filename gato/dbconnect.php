@@ -2,7 +2,7 @@
     // Login information for database
     $dbServername = "www.math-cs.ucmo.edu";
     $dbUsername = "S20gato";
-    $dbPassword = "S20otag";
+    $dbPassword = ""; // Password is hidden
     $dbName = "S20gato";
 
     $conn = new mysqli($dbServername, $dbUsername, $dbPassword, $dbName);
